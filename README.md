@@ -1,5 +1,5 @@
 # SearchAThing.Arduino.Utils.Examples
-Examples for the SearchAThing.Arduino.Utils library.
+Examples for the [SearchAThing.Arduino.Utils](https://github.com/devel0/SearchAThing.Arduino.Utils) library.
 - DPrint
 - TimeDiff
 - FreeMemory
@@ -8,5 +8,3 @@ Examples for the SearchAThing.Arduino.Utils library.
 - SList
 - RamData
 - BufWrite/Read
-
-Documentation available here https://searchathing.com/?p=967
